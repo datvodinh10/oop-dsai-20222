@@ -1,0 +1,20 @@
+------------------------ 2.1 ------------------------
+Xin chao 
+ cac ban!
+Hello    world!
+------------------------ 6.2 ------------------------
+What's your name?
+Dinh Dat
+How old are you?
+20
+How tall are you (m)?
+1.71 Mrs/Ms. Dinh Dat, 20 years old. Your height is 1.71.
+------------------------ 6.3 ------------------------
+Please give your number n: 6
+Your Triangle
+       *       
+      ***      
+     *****     
+    *******    
+   *********   
+  ***********  
