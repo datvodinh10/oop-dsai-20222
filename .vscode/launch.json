@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Painter",
+            "request": "launch",
+            "mainClass": "hust.soict.dsai.javafx.Painter",
+            "projectName": "oop-dsai-20222_70075806",
+            "vmArgs": "--module-path \"C:/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
